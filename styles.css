@@ -1,0 +1,96 @@
+body {
+  background-color: white;
+}
+.nav-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(255, 92, 92);
+}
+.nav-cont {
+  background-color: rgb(255, 92, 92) !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.title {
+  font-family: Agbalumo;
+  font-size: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: rgb(255, 92, 92);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+.nav-title {
+  font-size: 35px;
+  font-weight: 600;
+  color: gold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+.lions-logo {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+.sub-title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 10px;
+}
+li {
+  margin: 0 15px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+#main-hero {
+  margin-top: 40px;
+}
+.date {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: rgb(255, 92, 92);
+}
+.svg {
+  margin-right: 10px;
+}
+.details {
+  display: flex;
+  align-items: center;
+}
+.dono-svg {
+  width: 70px;
+  height: 70px;
+}
+.dono-name {
+  color: rgb(255, 92, 92) !important;
+}
+.sponsor-li {
+  margin-top: 1px;
+  margin-bottom: 0px;
+}
+.title-styles {
+  color: rgb(255, 92, 92) !important;
+}
+.lions-em {
+  text-decoration: none !important;
+  color: gold !important;
+}
